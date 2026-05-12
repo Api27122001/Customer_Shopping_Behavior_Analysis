@@ -19,33 +19,39 @@ Pandas,
 NumPy,
 Matplotlib,
 Seaborn,
-Jupyter Notebook,
-Project Objectives,
+Jupyter Notebook
+
+Project Objectives:
+
 Identify shopping trends,
 Analyze customer purchase frequency,
 Find high-selling product categories,
-Understand customer behavior patterns,
-Dataset,
+Understand customer behavior patterns
+
+Dataset
 
 The dataset contains customer purchase records including:
 
-Customer ID
-Age
-Gender
-Product Category
-Purchase Amount
+Customer ID,
+Age,
+Gender,
+Product Category,
+Purchase Amount,
 Payment Method
-Output
+ 
+ Output
 
 The project generates:
 
-Visual reports
-Customer insights
+Visual reports,
+Customer insights,
 Business recommendations
-Future Improvements
-Machine Learning prediction models
-Recommendation system
-Real-time dashboard integration
+
+Future Improvements :
+
+Machine Learning prediction models,
+Recommendation system,
+Real-time dashboard integration.
 
 
 
