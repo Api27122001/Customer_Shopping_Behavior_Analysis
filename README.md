@@ -4,6 +4,7 @@ Customer Shopping Behavior Analysis
 This project analyzes customer shopping behavior using Python and data analytics techniques. The goal is to understand customer purchasing patterns, spending habits, product preferences, and trends to support better business decisions.
 
 Features
+
 Data cleaning and preprocessing
 Exploratory Data Analysis (EDA)
 Customer spending analysis
